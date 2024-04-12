@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "express": "^4.19.2",
-    "merantea": "^1.1.5",
+    "merantea": "^1.1.6",
     "uuid": "^9.0.1"
   },
   "name": "@gemcoy/merantea",
