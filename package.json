@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "merantea": "^1.1.5",
+    "uuid": "^9.0.1"
+  },
+  "name": "@gemcoy/merantea",
+  "version": "1.1.4",
+  "description": "tea project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gemcoy/merantea"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gemcoy/merantea/issues"
+  },
+  "homepage": "https://github.com/gemcoy/merantea#readme",
+  "devDependencies": {
+    "sass": "^1.75.0",
+    "sass-loader": "^14.2.0",
+    "webpack": "^5.91.0"
+  }
+}
