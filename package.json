@@ -4,7 +4,7 @@
     "merantea": "^1.1.7",
     "uuid": "^9.0.1"
   },
-  "name": "@gemcoy/merantea",
+  "name": "merantea",
   "version": "1.1.7",
   "description": "tea project",
   "main": "index.js",
