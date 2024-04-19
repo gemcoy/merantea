@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "express": "^4.19.2",
-    "merantea": "^1.1.6",
+    "merantea": "^1.1.7",
     "uuid": "^9.0.1"
   },
   "name": "@gemcoy/merantea",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "tea project",
   "main": "index.js",
   "scripts": {
