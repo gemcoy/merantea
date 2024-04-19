@@ -1,7 +1,12 @@
 {
   "dependencies": {
     "express": "^4.19.2",
+    "express-adexe": "^1.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "menantea": "^2.0.0",
     "merantea": "^1.1.7",
+    "ranteamotor": "^2.0.2",
+    "semongko": "^1.1.4",
     "uuid": "^9.0.1"
   },
   "name": "merantea",
