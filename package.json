@@ -1,19 +1,19 @@
 {
   "dependencies": {
-    "express": "^4.19.2",
-    "express-adexe": "^1.0.2",
-    "jsonwebtoken": "^9.0.2",
-    "menantea": "^2.0.0",
-    "merantea": "^1.1.7",
-    "ranteamotor": "^2.0.2",
-    "semongko": "^1.1.4",
-    "uuid": "^9.0.1",
+    "express": "4.19.2",
+    "express-adexe": "1.0.2",
+    "jsonwebtoken": "9.0.2",
+    "menantea": "2.0.0",
+    "merantea": "2.0.0",
+    "ranteamotor": "2.0.2",
+    "semongko": "1.1.4",
+    "uuid": "9.0.1",
     "next": "14.1.3",
-    "react": "^18",
-    "react-dom": "^18"
+    "react": "18",
+    "react-dom": "18"
   },
   "name": "merantea",
-  "version": "1.1.7",
+  "version": "2.0.0",
   "description": "tea project",
   "main": "index.js",
   "scripts": {
